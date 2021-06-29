@@ -1,0 +1,12 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-test
+  description: |
+      Repository for testing backstage
+  labels:
+    squad: foundation
+    lifecycle: production
+spec:
+  type: component

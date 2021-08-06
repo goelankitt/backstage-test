@@ -3,6 +3,8 @@ kind: Component
 metadata:
   name: repo_entity
   description: The place to be, for great artists
+  annotations:
+    backstage.io/techdocs-ref: url:https://github.com/goelankitt/backstage-test/docs
 spec:
   type: website
   lifecycle: production
